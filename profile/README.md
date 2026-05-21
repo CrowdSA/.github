@@ -50,7 +50,7 @@ O **Método CROWD** é nossa estrutura proprietária de consultoria e transforma
 ```
 CrowdSA/
 ├── crowd-agents/         # Agentes de IA desenvolvidos para clientes
-├── crowd-automations/    # Fluxos de automação 
+├── crowd-automations/    # Fluxos de automação
 ├── crowd-templates/      # Templates reutilizáveis e frameworks internos
 └── crowd-cases/          # Documentação de cases de sucesso
 ```
@@ -77,7 +77,7 @@ São Paulo, SP — Brasil
 Quer entender como a IA pode transformar sua empresa?
 
 **[→ Solicite uma análise gratuita](https://www.crowdsa.com.br)**  
-**[→ Entre em contato direto](email:contato@crowdsa.com.br)**
+**[→ Entre em contato direto](mailto:contato@crowdsa.com.br)**
 
 ---
 
